@@ -26,7 +26,8 @@ The Index Citation Plugin will transform this markup into the following...
 
 ```html
 <p>
-Here we present knowledge about the biological effects of plant polyphenols in the context of relevance to human health. <sup><a class="citationLink" href="#citation1">1</a></sup>
+Here we present knowledge about the biological effects of plant polyphenols in the context of
+relevance to human health. <sup><a class="citationLink" href="#citation1">1</a></sup>
 </p>
 
 <p>The numbers in the table below have been pulled from the <a target="_blank" href="http://
