@@ -17,9 +17,9 @@ phenol-explorer.eu/">Phenol-Explorer</a> <cite><a href="http://database.oxfordjo
 Eisner R, Cruz J, Wishart D, Scalbert A. (2010) Phenol-Explorer: an online comprehensive database 
 on polyphenol contents in foods. Database, doi: 10.1093/database/bap024.</a></cite>.</p>
 
-<h2>Citations</h2>
+<h2>References</h2>
 
-<div id="citations"></div>
+<div id="references"></div>
 ```
 
 The Index Citation Plugin will transform this markup into the following...
