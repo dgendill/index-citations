@@ -1,0 +1,20 @@
+{
+  "name": "index-citations",
+  "version": "1.0.0",
+  "description": "The Index Citations Plugin will find all `<cite>` tags and replace them with a link to a references section. This can be useful if you want to use inline citations in your HTML document.",
+  "main": "dist/index-citation-node.js",
+  "browser": "dist/index-citation-global.js",
+  "scripts": {
+    "server": "node-http-server port=8081 verbose=true",
+    "build": "webpack --config webpack.config.js",
+    "install": "npm run build"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "devDependencies": {
+    "jsdom": "^15.2.0",
+    "node-http-server": "^8.1.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
